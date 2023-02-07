@@ -3,3 +3,4 @@
 3 - Esta linea es para modificar y generar conflicto: Master y RamaTest
 4 - Este es un cambio hecho desde la web
 5 - Hago cambios para pruebas con llaves SSH
+6 - Cambio en la rama de Fix-type
